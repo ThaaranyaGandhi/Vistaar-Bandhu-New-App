@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1040383991993",
+    "firebase_url": "https://vistaar-bandhu.firebaseio.com",
+    "project_id": "vistaar-bandhu",
+    "storage_bucket": "vistaar-bandhu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040383991993:android:1d6cbbb6f15ebd3e9cbb68",
+        "android_client_info": {
+          "package_name": "com.vistaar.vistaarcustomerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040383991993-osqursjcss0o762gor8gsjgi3jeqs056.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVhiGZ0sM-FuCS1A5QnzTHOLOsCGsONEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040383991993-osqursjcss0o762gor8gsjgi3jeqs056.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1040383991993-4vmeo2u6qeer28nu6n1om84msli2442l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vistaar.vistaarbandhu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
